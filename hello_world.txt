@@ -1,0 +1,1 @@
+This is some sample text added into my odin project for testing and learning how to use git in the command line interface.
